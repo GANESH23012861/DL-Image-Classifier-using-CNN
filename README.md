@@ -1,6 +1,6 @@
 # Develop a Convolutional Deep Neural Network for Image Classification
-### Name: ALDRIN S
-### Register Number: 212223240005
+### Name:  SELVAGANESH R
+### Register Number: 212223230200
 
 ## AIM
 To develop a convolutional neural network (CNN) classification model for the given dataset.
